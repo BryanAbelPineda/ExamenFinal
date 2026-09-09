@@ -1,7 +1,4 @@
-# app.py
-# Caso de Estudio N4 - Especializacion en Python for Analytics
-# Analisis Exploratorio de Datos - Teen Mental Health Dataset
-# Autor: (coloca tu nombre aqui)
+
 
 import streamlit as st
 import pandas as pd
@@ -9,7 +6,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# configuracion de la pagina, esto va primero siempre
+
 st.set_page_config(page_title="Teen Mental Health - EDA", layout="wide")
 
 
