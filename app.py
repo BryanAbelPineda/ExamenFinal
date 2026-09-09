@@ -137,7 +137,6 @@ if opcion == "Home":
     interaccion social y escalas de estres, ansiedad, adiccion y una
     etiqueta binaria de depresion (depression_label).
     """)
-    st.warning("Aclaracion: este analisis es exploratorio y educativo, no es un diagnostico clinico.")
 
     st.subheader("Tecnologias usadas")
     st.write("Python, Pandas, NumPy, Matplotlib, Seaborn y Streamlit.")
