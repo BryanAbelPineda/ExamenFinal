@@ -12,7 +12,7 @@ explora y visualiza los datos. Es un trabajo educativo.
 
 ## Autor
 
-- Nombre: (coloca tu nombre aquí)
+- Nombre: Bryan Abel Pineda Sulca
 - Curso: Especialización en Python for Analytics
 - Año: 2026
 
