@@ -12,10 +12,10 @@ Python for Analytics (DMC Institute).
 ## Capturas de la aplicación
 
 ![Pantalla Home](capturas/home.jpeg)
-![Carga del dataset](capturas/2_carga_datos.png)
-![EDA - Info general](capturas/3_eda_info_general.png)
-![EDA - Distribuciones](capturas/4_eda_distribuciones.png)
-![EDA - Hallazgos clave](capturas/5_eda_hallazgos.png)
+![Carga del dataset](capturas/cargadatos.jpeg)
+![EDA - Info general](capturas/info_general.jpeg)
+![EDA - Distribuciones](capturas/distribuciones.jpeg)
+![EDA - Hallazgos clave](capturas/hallazgos.jpeg)
 
 ## Cómo ejecutar el proyecto
 
