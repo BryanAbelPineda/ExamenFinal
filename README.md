@@ -68,8 +68,7 @@ teen_mental_health/
 
 ## Links relevantes
 
-- Repositorio GitHub: (pega aquí el link de tu repo)
-- Aplicación desplegada (Streamlit Community Cloud): (pega aquí el link)
+- Aplicación desplegada : https://examenfinal-crteusavpuub8xvcw96sb5.streamlit.app/
 
 ## Tecnologías usadas
 
