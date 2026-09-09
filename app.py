@@ -124,7 +124,7 @@ if opcion == "Home":
     """)
 
     st.subheader("Datos del autor")
-    st.write("Nombre completo: (coloca tu nombre aqui)")
+    st.write("Nombre completo: Bryan Abel Pineda Sulca")
     st.write("Curso / Especializacion: Especializacion en Python for Analytics")
     st.write("Año: 2026")
 
