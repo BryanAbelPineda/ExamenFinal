@@ -1,14 +1,7 @@
 # Teen Mental Health - EDA con Streamlit
 
 Este es mi proyecto final del Caso de Estudio N°4 de la Especialización en
-Python for Analytics (DMC Institute). La app hace un Análisis Exploratorio
-de Datos (EDA) del dataset `Teen_Mental_Health_Dataset.csv`, que tiene
-información sobre hábitos digitales, descanso, actividad física e
-interacción social de adolescentes, junto con variables de bienestar
-(estrés, ansiedad, adicción y una etiqueta de depresión).
-
-**Importante:** este proyecto NO hace predicciones ni diagnósticos, solo
-explora y visualiza los datos. Es un trabajo educativo.
+Python for Analytics (DMC Institute).
 
 ## Autor
 
